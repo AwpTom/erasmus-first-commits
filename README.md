@@ -22,6 +22,8 @@ This is a simple exercise to practice making your first commit.
 | Magdaléna Čížová | magda.cizova1@gmail.com|
 | Richard Vávra | risavavra@gmail.com |
 | Vanessa Pešlová | vanessa.peslova@seznam.cz|
+| Dominik Kuřil | domzdrlol@gmail.com|
+
 
 ## 🔗 Links
 
