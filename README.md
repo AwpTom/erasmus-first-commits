@@ -16,6 +16,9 @@ This is a simple exercise to practice making your first commit.
 |------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com |
 | Tomas Gregorik | tomas.gregorik@post.cz |
+| Magdaléna Čížová | magda.cizova1@gmail.com|
+| Richard Vávra | risavavra@gmail.com |
+| Vanessa Pešlová | vanessa.peslova@seznam.cz|
 
 ## 🔗 Links
 
